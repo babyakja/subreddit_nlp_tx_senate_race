@@ -13,5 +13,5 @@ Reddit's API is limited to the last 1000 post for any subreddit, so how active a
 - Use GridSearch and Pipelines to find best predictive model
 - Metric Targeted: __Accuracy__
 ## Findings
--
+- We can apply our model to a different Reddit subreddit to gauge the pulse and discussion of untagged posts. We wwill reference r/Texas with politic flags to see what this 'neutral' space is discussing more in terms of candidates.
 ## Conclusion
