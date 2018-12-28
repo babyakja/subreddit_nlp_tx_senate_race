@@ -20,7 +20,9 @@ Classification
 - Metric Targeted: __Accuracy__
 
 ## Findings
-- We can apply our model to a different Reddit subreddit to gauge the pulse and discussion of untagged posts. We will reference r/Texas with politic flags to see what this 'neutral' space is discussing more in terms of candidates.
+We can apply our model to a different Reddit subreddit to gauge the pulse and discussion of untagged posts. We will reference r/Texas with politic flags to see what this 'neutral' space is discussing more in terms of candidates.
+
+After supplying r/texas data into the model, 69% of posts were geared toward Beto while 31% was geared towards Cruz. This initially indicates an advantage for Beto being the center of discussion but the sentiment for each post needs to be factored in as well.
 
 ## Conclusion
 
