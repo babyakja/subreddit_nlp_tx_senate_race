@@ -2,10 +2,12 @@
 ## Objective
 Using the tools learned in General Assembley's Data Science Immersive course, we will collect data via an API request and then building a binary predictor.
 In particular, we will apply this in the realm of Reddit. Using NLP, what characteristics of a post on Reddit contribute most to which subreddit it belongs to? Our data will focus on Texas Senate race between Ted Cruz (R) and Beto O'Rourke (D).
+
 Python Packages Used:
   - Pandas
   - Numpy
-  - SkLearn
+  - Scikit-Learn
+  
 ## Data Collection
 
 Build function to scrape reddit with inputs of _subreddit name_ and _number of pages to pull_
@@ -23,6 +25,8 @@ Classification
 We can apply our model to a different Reddit subreddit to gauge the pulse and discussion of untagged posts. We will reference r/Texas with politic flags to see what this 'neutral' space is discussing more in terms of candidates.
 
 After supplying r/texas data into the model, 69% of posts were geared toward Beto while 31% was geared towards Cruz. This initially indicates an advantage for Beto being the center of discussion but the sentiment for each post needs to be factored in as well.
+
+
 
 ## Conclusion
 
