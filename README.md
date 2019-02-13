@@ -1,6 +1,6 @@
 # NLP on the 2018 Texas Race using the Reddit API
 ## Objective
-Using the tools learned in General Assembley's Data Science Immersive course, we will collect data via an API request and then building a binary predictor.
+Using the tools learned in General Assembley's Data Science Immersive course, we will collect data via an API request and then building a binary classification predictior.
 In particular, we will apply this in the realm of Reddit. Using NLP, what characteristics of a post on Reddit contribute most to which subreddit it belongs to? Our data will focus on Texas Senate race between Ted Cruz (R) and Beto O'Rourke (D).
 
 Python Packages Used:
